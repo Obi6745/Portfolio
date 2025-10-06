@@ -31,7 +31,7 @@ export default function Skills() {
             My Skills
           </h1>
           <p className="text-lg text-gray-300 text-center max-w-3xl mx-auto">
-            Here are the technical skills and tools I'm learning and using
+            Here are the technical skills and tools I&apos;m learning and using
           </p>
         </div>
       </section>

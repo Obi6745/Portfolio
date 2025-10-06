@@ -47,23 +47,23 @@ export default function About() {
                 <h2 className="text-4xl font-bold text-gray-900 mb-6">My Story</h2>
                 
                 <p className="text-lg text-gray-600 leading-relaxed">
-                  I'm Obi Habibi, a passionate Interactive Media Design student at Georgian College, 
-                  where I'm diving deep into the world of web development and digital design. My journey 
+                  I&apos;m Obi Habibi, a passionate Interactive Media Design student at Georgian College, 
+                  where I&apos;m diving deep into the world of web development and digital design. My journey 
                   in technology began with curiosity and has evolved into a genuine passion for creating 
                   meaningful digital experiences.
                 </p>
                 
                 <p className="text-lg text-gray-600 leading-relaxed">
                   What drives me is the intersection of creativity and functionality. I believe that 
-                  great design isn't just about how something looks, but about how it makes people feel 
+                  great design isn&apos;t just about how something looks, but about how it makes people feel 
                   and how effectively it solves real problems. Every project is an opportunity to learn, 
-                  grow, and push the boundaries of what's possible.
+                  grow, and push the boundaries of what&apos;s possible.
                 </p>
                 
                 <p className="text-lg text-gray-600 leading-relaxed">
-                  When I'm not coding or designing, you'll find me exploring new technologies, 
+                  When I&apos;m not coding or designing, you&apos;ll find me exploring new technologies, 
                   experimenting with different frameworks, or diving into the latest design trends. 
-                  I'm always eager to collaborate and learn from others in the field.
+                  I&apos;m always eager to collaborate and learn from others in the field.
                 </p>
               </div>
             </div>
@@ -73,10 +73,10 @@ export default function About() {
           <div className="bg-gradient-to-br from-blue-600 to-purple-600 rounded-3xl p-8 text-white mb-20">
             <div className="grid md:grid-cols-2 gap-8 items-center">
               <div>
-                <h3 className="text-3xl font-bold mb-4">Let's Connect</h3>
+                <h3 className="text-3xl font-bold mb-4">Let&apos;s Connect</h3>
                 <p className="text-blue-100 text-lg mb-6">
-                  I'm always excited to discuss new projects, share ideas, or just chat about 
-                  technology and design. Don't hesitate to reach out!
+                  I&apos;m always excited to discuss new projects, share ideas, or just chat about 
+                  technology and design. Don&apos;t hesitate to reach out!
                 </p>
                 <Link 
                   href="/contact" 
@@ -176,7 +176,7 @@ export default function About() {
                 <h3 className="text-xl font-bold text-gray-900 mb-4">Learning Process</h3>
                 <p className="text-gray-600 leading-relaxed">
                   I spend countless hours exploring new technologies, working through coding challenges, 
-                  and experimenting with different design approaches. The journey isn't always smooth, 
+                  and experimenting with different design approaches. The journey isn&apos;t always smooth, 
                   but every obstacle is a learning opportunity.
                 </p>
               </div>

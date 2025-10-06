@@ -8,11 +8,11 @@ export default function Home() {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h1 className="text-5xl md:text-6xl font-bold text-white mb-6">
-              Hi, I'm Obi Habibi
+              Hi, I&apos;m Obi Habibi
             </h1>
             <p className="text-xl text-gray-300 mb-8 max-w-3xl mx-auto">
-              I'm an Interactive Media Design student at Georgian College. 
-              I'm learning web development and design to create great digital experiences.
+              I&apos;m an Interactive Media Design student at Georgian College. 
+              I&apos;m learning web development and design to create great digital experiences.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -36,7 +36,7 @@ export default function Home() {
       {/* What I Do Section */}
       <section className="py-16 bg-gray-800">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-3xl font-bold text-white text-center mb-12">What I'm Learning</h2>
+          <h2 className="text-3xl font-bold text-white text-center mb-12">What I&apos;m Learning</h2>
 
           <div className="grid md:grid-cols-3 gap-8">
             <div className="bg-gray-700 rounded-lg p-6 text-center">

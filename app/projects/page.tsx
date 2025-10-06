@@ -50,7 +50,7 @@ export default function Projects() {
             My Projects
           </h1>
           <p className="text-lg text-gray-300 text-center max-w-3xl mx-auto">
-            Here are some projects I've worked on for school and for fun. Each one helped me learn something new!
+            Here are some projects I&apos;ve worked on for school and for fun. Each one helped me learn something new!
           </p>
         </div>
       </section>
